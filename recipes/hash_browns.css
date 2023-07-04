@@ -1,0 +1,14 @@
+
+h1, h2, h3 {
+    color: red;
+    font-family: Georgia, serif;
+}
+
+p, li {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+#recipe-container {
+    background-color: aquamarine;
+}
