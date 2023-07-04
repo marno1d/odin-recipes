@@ -1,14 +1,27 @@
 
 h1, h2, h3 {
-    color: red;
+    color: #56055b;
     font-family: Georgia, serif;
 }
 
 p, li {
-    color: blue;
+    color: black;
     font-family: Arial, sans-serif;
 }
 
 #recipe-container {
-    background-color: aquamarine;
+    background-color: #e9cdf2;
+    padding: 1px 20px 20px 20px;
+}
+
+.home_button {
+    display: block;
+    margin: 5px auto;
+    background-color: #e9cdf2;
+    border: 3px dotted #56055b;
+}
+
+li {
+    margin-bottom: 4px;
+    width: 400px
 }
